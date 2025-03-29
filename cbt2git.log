@@ -1,0 +1,7 @@
+2025-03-28 17:14:40.565799 - Received CBT.V508.FILE208.PDS from FILE208.XMI 
+2025-03-28 17:14:40.568645 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE208.PDS, moved to PDS/$$$#DATE
+2025-03-28 17:14:40.569724 - Found $$DOC.txt (text/plain) in CBT.V508.FILE208.PDS, moved to PDS/$$DOC
+2025-03-28 17:14:40.570770 - Found @FILE208.txt (text/plain) in CBT.V508.FILE208.PDS, moved to PDS/@FILE208
+2025-03-28 17:14:40.571748 - Found ASMJCL.jcl (text/plain) in CBT.V508.FILE208.PDS, moved to PDS/ASMJCL
+2025-03-28 17:14:40.572675 - Found LSPC.txt (text/plain) in CBT.V508.FILE208.PDS, moved to PDS/LSPC
+2025-03-28 17:14:40.574037 - Found LSPCHELP.txt (text/plain) in CBT.V508.FILE208.PDS, moved to PDS/LSPCHELP
